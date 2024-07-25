@@ -9,10 +9,11 @@ In this paper, we introduce a first-of-its-kind dataset - the Northern Ireland P
 Coming soon.
 
 # Dataset
-Link coming soon.
+Please send you request to j.gaoATqub.ac.uk for access.
+
 
 # Code
-Please send you request to j.gaoATqub.ac.uk for access.
+Coming soon.
 
 # How to cite
 > @inproceedings{gao2024learning,
