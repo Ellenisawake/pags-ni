@@ -14,6 +14,13 @@ Please send you request to j.gaoATqub.ac.uk for access.
 
 # Code
 Coming soon.
+## Running model test (inference only)
+Hardware requirement: a GPU with at least 2GB memory
+Software environment:
+CUDA 12.2
+[PyTorch 2.2](https://pytorch.org/get-started/previous-versions/)
+## Converting model output to GeoTIFF
+[osgeo](https://pypi.org/project/osgeo/)
 
 # How to cite
 > @inproceedings{gao2024learning,
